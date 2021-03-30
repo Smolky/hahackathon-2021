@@ -1,0 +1,16 @@
+cache_dir/*
+embeddings/*
+code/*.zip
+
+assets/hahackathon/base/bert-final-1a.pt
+assets/hahackathon/base/bert-final-1b.pt
+assets/hahackathon/base/bert-final-1c.pt
+assets/hahackathon/base/bert-final-1d.pt
+assets/hahackathon/base/model-task-1a.h5
+assets/hahackathon/base/model-task-1b.h5
+assets/hahackathon/base/model-task-1c.h5
+assets/hahackathon/base/model-task-2a.h5
+assets/hahackathon/base/bert-finetunning-1a/*
+assets/hahackathon/base/bert-finetunning-1b/*
+assets/hahackathon/base/bert-finetunning-1c/*
+assets/hahackathon/base/bert-finetunning-2a/*
