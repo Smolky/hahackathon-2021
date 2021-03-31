@@ -1,4 +1,4 @@
-# hahackathon-2021
+# UMUTeam at SemEval-2021 Task 7: Detecting and Rating Humor and Offense with Linguistic Features and Word Embeddings
 This project contains the source-code of the runs submitted by the UMUTeam at https://competitions.codalab.org/competitions/27446
 
 ## Abstract
