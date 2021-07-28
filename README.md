@@ -7,3 +7,20 @@ In writing, humor is mainly based on figurative language in which words and expr
 
 ## Details
 The source code is stored in the ```code``` folder. In the ```embeddings```folders there are symbolyc links to the pretrained word embeddings used. Due to size, you should download the ```glove.6b.300d.txt``` (https://nlp.stanford.edu/projects/glove/). The ```train```, ```dev```, and ```test``` splits are stored in the ```datasets``` folder. In the ```assets``` folders there are the features employed, the runs sent, and the hyperparameters results but not the models due to their filesize. You need to train the models or you can request me by email <joseantonio.garcia8@um.es>
+
+
+## Citation
+```
+@inproceedings{garcia-diaz-valencia-garcia-2021-umuteam,
+    title = "{UMUT}eam at {S}em{E}val-2021 Task 7: Detecting and Rating Humor and Offense with Linguistic Features and Word Embeddings",
+    author = "Garc{\'\i}a-D{\'\i}az, Jos{\'e} Antonio  and
+      Valencia-Garc{\'\i}a, Rafael",
+    booktitle = "Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.semeval-1.152",
+    pages = "1096--1101"
+}
+```
