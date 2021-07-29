@@ -1,4 +1,5 @@
-# UMUTeam at SemEval-2021 Task 7: Detecting and Rating Humor and Offense with Linguistic Features and Word Embeddings
+# UMUTeam at SemEval-2021 Task 7
+#### Detecting and Rating Humor and Offense with Linguistic Features and Word Embeddings
 This project contains the source-code of the runs submitted by the UMUTeam at https://competitions.codalab.org/competitions/27446
 
 More details regarding the task and the methods can be found at https://aclanthology.org/2021.semeval-1.152.pdf
